@@ -1,0 +1,26 @@
+1670332458250	geckodriver	INFO	Listening on 127.0.0.1:64467
+1670332461317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWt7Wr8"
+1670332461920	Marionette	INFO	Marionette enabled
+1670332461926	Marionette	INFO	Listening on port 64486
+Read port: 64486
+WebDriver BiDi listening on ws://127.0.0.1:64468
+1670332462094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWt7Wr8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64468/devtools/browser/eee011b9-d771-4f36-9ec2-787d535635e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1670332481741	Marionette	INFO	Stopped listening on port 64486
+[GFX1]: RenderDXGITextureHost AcquireSync timeout, hr=0x102
+[Parent 16768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670332577822	geckodriver	INFO	Listening on 127.0.0.1:64604
+1670332580880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileCWnnSF"
+1670332581192	Marionette	INFO	Marionette enabled
+1670332581197	Marionette	INFO	Listening on port 64614
+Read port: 64614
+WebDriver BiDi listening on ws://127.0.0.1:64605
+1670332581294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileCWnnSF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64605/devtools/browser/4841f3c0-6462-4414-abaf-75d341e01385
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1670332603568	Marionette	INFO	Stopped listening on port 64614
