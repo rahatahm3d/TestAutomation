@@ -1,0 +1,21 @@
+1670917965310	geckodriver	INFO	Listening on 127.0.0.1:12307
+1670917968318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilet3EQ0k"
+1670917968776	Marionette	INFO	Marionette enabled
+1670917968781	Marionette	INFO	Listening on port 12317
+Read port: 12317
+WebDriver BiDi listening on ws://127.0.0.1:12308
+1670917968964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilet3EQ0k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12308/devtools/browser/170a945d-e281-45d2-9601-e5f0cb210a5b
+1670917985508	Marionette	INFO	Stopped listening on port 12317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670918121859	geckodriver	INFO	Listening on 127.0.0.1:12399
+1670918124908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofiletm8udf"
+1670918125272	Marionette	INFO	Marionette enabled
+1670918125277	Marionette	INFO	Listening on port 12409
+WebDriver BiDi listening on ws://127.0.0.1:12400
+Read port: 12409
+1670918125479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofiletm8udf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12400/devtools/browser/3239ff58-40fc-49e5-a1cb-dc38ef3265f3
+1670918138719	Marionette	INFO	Stopped listening on port 12409

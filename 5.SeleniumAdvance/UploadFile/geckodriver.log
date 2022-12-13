@@ -1,0 +1,23 @@
+1670919165715	geckodriver	INFO	Listening on 127.0.0.1:12949
+1670919168786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilePVNhT6"
+1670919169159	Marionette	INFO	Marionette enabled
+1670919169164	Marionette	INFO	Listening on port 12960
+WebDriver BiDi listening on ws://127.0.0.1:12950
+Read port: 12960
+1670919169353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilePVNhT6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12950/devtools/browser/47bf08e8-fc43-4e10-a908-2175f9a5e215
+1670919192232	Marionette	INFO	Stopped listening on port 12960
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670919227510	geckodriver	INFO	Listening on 127.0.0.1:13030
+1670919230592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilePNtCkC"
+1670919230953	Marionette	INFO	Marionette enabled
+1670919230957	Marionette	INFO	Listening on port 13042
+WebDriver BiDi listening on ws://127.0.0.1:13031
+Read port: 13042
+1670919231160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAHATM~1\\AppData\\Local\\Temp\\rust_mozprofilePNtCkC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13031/devtools/browser/34c71815-da0c-4dfd-9ed1-293a9ebd6158
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://the-internet.herokuapp.com."
+1670919244312	Marionette	INFO	Stopped listening on port 13042
